@@ -18,7 +18,7 @@ Basically, I am kind of obsessed with optimization and finding and fixing proble
 
 Also, I used Gemini Neon for brainstorming, learning, and figuring out the logic, and I did the coding part with Grok 4.7 High. At the very bottom, I will explain in as much detail as I can why I used intrinsic functions and what they actually do in this setup. The whole project took around 13 hours.
 
-Please let me know if you have any feedback or suggestions so I can keep improving!
+Please let me know if you have any feedback or suggestions so I can keep improving! (https://www.linkedin.com/in/berkay-784a31414/)
 
 ---
 
